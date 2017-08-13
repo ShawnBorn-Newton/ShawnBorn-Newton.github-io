@@ -1,0 +1,47 @@
+﻿body{
+    background-color:cadetblue;
+}
+.header{
+    background-color:steelblue;
+    height:230px;
+}
+.headerIMG{
+    height:200px;
+    width:125px;
+    padding-top:25px;
+}
+.contact{
+    float:right;
+    background-color:lightblue;
+    padding:10px;
+}
+.card-inner{
+    height:250px;
+    width:550px;
+    background-color:steelblue;
+    margin-top:30px;
+    margin-bottom:70px;
+    border-width:50px; 
+    border-style:solid;
+    border-color:steelblue;
+
+}
+.inner-text{
+    margin-top:30px;
+    margin-left:30px;
+}
+.projects-inner{
+    height:2000px;
+    width:1200px;
+    background-color:steelblue;
+    margin-top:30px;
+    margin-bottom:70px;
+    border-width:50px; 
+    border-style:solid;
+    border-color:steelblue;
+}
+#pythonImgOne{
+    width:250px;
+    margin:0px;
+    float:right;
+}
