@@ -1,47 +1,59 @@
 ﻿body{
-    background-color:cadetblue;
+    background-color:#041E28;
 }
-.header{
-    background-color:steelblue;
-    height:230px;
+.header {
+    background-image: url('Images/programming-t2.jpg');
+    height: 230px;
+    color:white;
 }
 .headerIMG{
-    height:200px;
-    width:125px;
+    height:250px;
+    width:225px;
     padding-top:25px;
+    margin-left:70px;
 }
 .contact{
-    float:right;
-    background-color:lightblue;
+    
+    background-color:#13455C;
     padding:10px;
+    color:#F5F2F4;
+    margin-top:30px;
 }
 .card-inner{
-    height:250px;
-    width:550px;
-    background-color:steelblue;
+    float:right;
+    background-color:#13455C;
     margin-top:30px;
     margin-bottom:70px;
+    left:250px;
     border-width:50px; 
     border-style:solid;
-    border-color:steelblue;
-
+    border-color:#13455C;
+    width:600px;
+    color:#F5F2F4;
 }
-.inner-text{
-    margin-top:30px;
-    margin-left:30px;
+.push-right{
+    margin-left:40px;
 }
 .projects-inner{
     height:2000px;
     width:1200px;
-    background-color:steelblue;
+    background-color:#13455C;
     margin-top:30px;
     margin-bottom:70px;
     border-width:50px; 
     border-style:solid;
-    border-color:steelblue;
+    border-color:#13455C;
+    color:#F5F2F4;
 }
 #pythonImgOne{
     width:250px;
     margin:0px;
     float:right;
+}
+.jumbotron{
+    background-color:#13455C;
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+    color:#F5F2F4;
 }
